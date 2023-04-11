@@ -1,0 +1,104 @@
+{"places" : {
+	"for-hire" : {
+		"channel" : "745750823081869433",
+		"name" : "For hire 👷‍♂️",
+		"format" : {
+			"job": {
+				"text":"What can you do?",
+				"type":"Paragraph",
+				"placeholder":"I can script a door to open"
+			},
+			"cost": {
+				"text":"How much do you work for?",
+				"type":"Short",
+				"placeholder":"100 robux or 5$ paypal per door"
+			},
+			"portfolio": {
+				"text":"Do you have a portfolio?",
+				"type":"Paragraph",
+				"placeholder":"No"
+			}
+		}
+	},
+	"hiring" : {
+		"channel" : "729390718967349272",
+		"name" : "Hiring 💰",
+		"format" : {
+			"job": {
+				"text":"What are you looking for?",
+				"type":"Paragraph",
+				"placeholder":"Someone to script a door to open"
+			},
+			"cost": {
+				"text":"What is your budget?",
+				"type":"Short",
+				"placeholder":"100 robux or 5$ paypal"
+			},
+			"portfolio": {
+				"text":"Do you have any other information",
+				"type":"Paragraph",
+				"placeholder":"No"
+			}
+		}
+	},
+	"for-sale" : {
+		"channel" : "820216452086759474",
+		"name" : "For sale 🤑",
+		"format" : {
+			"productName": {
+				"text":"Name:",
+				"type":"Paragraph",
+				"default":"I can script a door to open"
+			},
+			"desc": {
+				"text":"Description:",
+				"type":"Paragraph",
+				"placeholder":"100 robux or 5$ paypal per door"
+			},
+			"cost": {
+				"text":"Price:",
+				"type":"Paragraph",
+				"placeholder":"No"
+			},
+			"img": {
+				"text":"Image/Video link:",
+				"type":"Paragraph",
+				"placeholder":"No"
+			}
+		}
+	},
+	"roblox-advertising" : {
+		"channel" : "811889796464640030",
+		"name" : "Roblox advertising 🎮",
+		"format" : {
+			"intro": {
+				"text":"Introduce yourself",
+				"type":"Paragraph",
+				"default":"My game or group is great"
+			},
+			"link": {
+				"text":"Link",
+				"type":"Paragraph",
+				"default":"san3k.com"
+			}
+		}
+	},
+	"discord-advertising" : {
+		"channel" : "811889853222486026",
+		"name" : "Discord advertising 🗣",
+		"format" : {
+			"intro": {
+				"text":"Introduce your server",
+				"type":"Paragraph",
+				"default":"My game or group is great"
+			},
+			"link": {
+				"text":"Invite link",
+				"type":"Paragraph",
+				"default":"https://www.roblox.com/home"
+			}
+		}
+	}
+},
+"postChannel":"1088611591152472145",
+"approveChannel":"811896494063747102"}
